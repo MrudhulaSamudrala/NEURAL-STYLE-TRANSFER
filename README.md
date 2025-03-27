@@ -85,3 +85,4 @@ Users can experiment with different images and hyperparameters to achieve custom
 
 ## Output :
 
+![Image](https://github.com/user-attachments/assets/5a187b81-cbb2-48f5-bb17-6bf4f2be8053)
